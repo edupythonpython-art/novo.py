@@ -1,5 +1,5 @@
 novo.py
-import sys
+import sys.py
 
 def gerar_orcamento():
     print("\n" + "="*35)
